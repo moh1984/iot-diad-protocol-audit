@@ -17,9 +17,7 @@ script; set it to `None` to regenerate the `*_unbounded.csv` variants.
 CIC IoT-DIAD 2024, Canadian Institute for Cybersecurity:
 <https://www.unb.ca/cic/datasets/iot-diad-2024.html>
 
-> M. Rabbani, J. Gui, F. Nejati, Z. Zhou, A. Kaniyamattam, M. Mirani, G. Piya,
-> I. Opushnyev, R. Lu, A. A. Ghorbani. "Device Identification and Anomaly
-> Detection in IoT Environments," *IEEE Internet of Things Journal*, Dec. 2024.
+> > M. Rabbani, J. Gui, F. Nejati, Z. Zhou, A. Kaniyamattam, M. Mirani, G. Piya, I. Opushnyev, R. Lu, and A. A. Ghorbani. "Device Identification and Anomaly Detection in IoT Environments," *IEEE Internet of Things Journal*, vol. 12, no. 10, pp. 13625–13643, 2025. https://doi.org/10.1109/JIOT.2024.3522863
 
 **We use the flow-based representation only** (`AD_Flow-based-features`,
 extracted with CICFlowMeter): 129 CSV files, 19,519,162 flows, eight class
