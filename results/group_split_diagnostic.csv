@@ -1,0 +1,9 @@
+﻿family,train_rows,test_rows,train_files,test_files,total_files,trainable
+Benign,1320,1129,3,1,4,yes
+Brute Force,2000,0,1,0,1,yes
+DDOS,16752,4629,47,14,61,yes
+DOS,90286,1026,19,3,22,yes
+Mirai,1803,196,25,4,29,yes
+Recon,0,2717,0,1,1,NO - absent from train
+Spoofing,1881,119,2,1,3,yes
+Web-Based,1762,238,2,1,3,yes

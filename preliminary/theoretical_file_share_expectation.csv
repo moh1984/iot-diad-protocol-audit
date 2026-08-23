@@ -1,0 +1,9 @@
+﻿family,capture_files,true_rows,true_share_pct,file_share_pct,expected_rows_ideal_quota,expected_share_ideal_quota_pct
+DOS,27,14853087,76.09,20.93,27000,20.93
+DDOS,61,3478814,17.82,47.29,61000,47.29
+Recon,1,442158,2.27,0.78,1000,0.78
+Benign,4,398330,2.04,3.1,4000,3.1
+Mirai,29,174588,0.89,22.48,29000,22.48
+Spoofing,3,157238,0.81,2.33,3000,2.33
+Web-Based,3,11328,0.06,2.33,3000,2.33
+Brute Force,1,3619,0.02,0.78,1000,0.78

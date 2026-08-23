@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Protocol audit on CIC IoT-DIAD 2024"
+message: "If you use this software, please cite the accompanying paper."
+type: software
+authors:
+  - family-names: "Alkhazaleh"
+    given-names: "Mohammad"
+    affiliation: "Isra University, Amman, Jordan"
+  - family-names: "Baklizi"
+    given-names: "Mahmoud"
+    affiliation: "University of Petra, Amman, Jordan"
+  - family-names: "Mjlae"
+    given-names: "Salameh A."
+    affiliation: "Al-Balqa Applied University, Al-Salt, Jordan"
+  - family-names: "Al-Zghoul"
+    given-names: "Musab"
+    affiliation: "Isra University, Amman, Jordan"
+license: MIT
+version: "1.0.0"
+date-released: "2026-08-23"
+repository-code: "https://github.com/moh1984/iot-diad-protocol-audit"

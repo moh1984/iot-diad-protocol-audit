@@ -1,0 +1,18 @@
+# Environment used to produce every CSV in results/ and every figure in figures/.
+# These are the libraries that affect the results directly; this is not a full
+# transitive freeze, so exact bit-for-bit agreement across platforms is not
+# guaranteed. Install from this file to reproduce the reported values under the
+# recorded environment; use requirements.txt for general use.
+#
+# Captured on the machine that ran the experiments (Windows, CPython):
+#   python --version
+#   pip freeze | findstr /I "pandas numpy scikit-learn scipy shap matplotlib"
+
+# Python 3.12.3
+
+numpy==2.2.6
+pandas==2.2.2
+scipy==1.13.0
+scikit-learn==1.4.2
+shap==0.52.0
+matplotlib==3.8.4

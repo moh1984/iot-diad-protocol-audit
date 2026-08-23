@@ -1,0 +1,9 @@
+﻿class_name,folder_exists,csv_count,files_read,rows_before_sampling,rows_after_sampling,status,observed_share_pct
+Benign,True,4,4,398330,4000,ok,3.23
+Brute Force,True,1,1,3619,1000,ok,0.81
+DDOS,True,61,61,3478814,61000,ok,49.19
+DOS,True,27,27,14853087,22000,ok,17.74
+Mirai,True,29,29,174588,29000,ok,23.39
+Recon,True,1,1,442158,1000,ok,0.81
+Spoofing,True,3,3,157238,3000,ok,2.42
+Web-Based,True,3,3,11328,3000,ok,2.42

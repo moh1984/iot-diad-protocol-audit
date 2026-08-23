@@ -1,0 +1,11 @@
+﻿seed,family,train_rows,test_rows,train_files,test_files,verdict,predicted_as,mean_prob_true_class
+42,Recon,0,2717,0,1,"NOT IN TRAIN - unlearnable, 0.0000 is structural","{'DOS': 1369, 'Benign': 327}",0.0
+42,Brute Force,2000,0,1,0,"NO TEST DATA - recall undefined, report n/a",-,
+7,Recon,2717,0,1,0,"NO TEST DATA - recall undefined, report n/a",-,
+7,Brute Force,0,2000,0,1,"NOT IN TRAIN - unlearnable, 0.0000 is structural","{'Spoofing': 566, 'Benign': 336}",0.0
+123,Recon,2717,0,1,0,"NO TEST DATA - recall undefined, report n/a",-,
+123,Brute Force,2000,0,1,0,"NO TEST DATA - recall undefined, report n/a",-,
+2024,Recon,2717,0,1,0,"NO TEST DATA - recall undefined, report n/a",-,
+2024,Brute Force,2000,0,1,0,"NO TEST DATA - recall undefined, report n/a",-,
+31337,Recon,2717,0,1,0,"NO TEST DATA - recall undefined, report n/a",-,
+31337,Brute Force,2000,0,1,0,"NO TEST DATA - recall undefined, report n/a",-,
