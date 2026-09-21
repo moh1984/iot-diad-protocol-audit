@@ -1,0 +1,8 @@
+# Normalise text line endings across platforms. Without this, files authored on
+# Windows land in Git with CRLF and show up as wholly changed when cloned on
+# Linux or macOS.
+* text=auto eol=lf
+
+# Keep binary artefacts untouched.
+*.png binary
+*.pdf binary
