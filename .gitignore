@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+_working/
+*.parquet
+iot_diad_*.csv
+.DS_Store
