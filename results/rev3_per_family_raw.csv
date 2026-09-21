@@ -1,0 +1,321 @@
+﻿protocol,seed,family,in_train,in_test,scored,recall,precision,support
+capture-aware (file-proportion),42,Benign,True,True,True,0.24534986713906112,0.3825966850828729,1129
+capture-aware (file-proportion),42,Brute Force,True,False,False,,,0
+capture-aware (file-proportion),42,DDOS,True,True,True,0.9038669259019226,0.8341307814992025,4629
+capture-aware (file-proportion),42,DOS,True,True,True,0.7397660818713451,0.29567588624853913,1026
+capture-aware (file-proportion),42,Mirai,True,True,True,0.3469387755102041,0.19101123595505617,196
+capture-aware (file-proportion),42,Recon,False,True,False,,,2717
+capture-aware (file-proportion),42,Spoofing,True,True,True,0.31092436974789917,0.07034220532319392,119
+capture-aware (file-proportion),42,Web-Based,True,True,True,0.36554621848739494,0.1851063829787234,238
+capture-aware (size-matched),42,Benign,True,False,False,,,0
+capture-aware (size-matched),42,Brute Force,True,False,False,,,0
+capture-aware (size-matched),42,DDOS,True,True,True,0.38934426229508196,0.18886679920477137,244
+capture-aware (size-matched),42,DOS,True,True,True,0.978419452887538,0.9982943091952241,26320
+capture-aware (size-matched),42,Mirai,True,True,True,0.4126984126984127,0.2826086956521739,63
+capture-aware (size-matched),42,Recon,True,False,False,,,0
+capture-aware (size-matched),42,Spoofing,True,False,False,,,0
+capture-aware (size-matched),42,Web-Based,True,False,False,,,0
+capture-aware (file-proportion),7,Benign,True,False,False,,,0
+capture-aware (file-proportion),7,Brute Force,False,True,False,,,2000
+capture-aware (file-proportion),7,DDOS,True,True,True,0.8612215395735453,0.7529225908372827,2767
+capture-aware (file-proportion),7,DOS,True,True,True,0.9929866746818956,0.9671155347384855,19962
+capture-aware (file-proportion),7,Mirai,True,True,True,0.26199261992619927,0.19346049046321526,271
+capture-aware (file-proportion),7,Recon,True,False,False,,,0
+capture-aware (file-proportion),7,Spoofing,True,True,True,0.15336134453781514,0.15614973262032086,952
+capture-aware (file-proportion),7,Web-Based,True,True,True,0.06235011990407674,0.1640378548895899,834
+capture-aware (size-matched),7,Benign,True,False,False,,,0
+capture-aware (size-matched),7,Brute Force,True,False,False,,,0
+capture-aware (size-matched),7,DDOS,True,True,True,0.8754229467856044,0.5902115304852759,3251
+capture-aware (size-matched),7,DOS,True,True,True,0.9196115457243054,0.9889759210908036,25949
+capture-aware (size-matched),7,Mirai,True,True,True,0.2459016393442623,0.26717557251908397,427
+capture-aware (size-matched),7,Recon,True,False,False,,,0
+capture-aware (size-matched),7,Spoofing,True,True,True,0.13455328310010764,0.5208333333333334,929
+capture-aware (size-matched),7,Web-Based,True,True,True,0.27181208053691275,0.6113207547169811,596
+capture-aware (file-proportion),123,Benign,True,True,True,0.2187776793622675,0.6382428940568475,1129
+capture-aware (file-proportion),123,Brute Force,True,False,False,,,0
+capture-aware (file-proportion),123,DDOS,True,True,True,0.5303965966790174,0.8716734325665314,7287
+capture-aware (file-proportion),123,DOS,True,True,True,0.9821280991735537,0.7378346915017462,9680
+capture-aware (file-proportion),123,Mirai,True,True,True,0.28217821782178215,0.3877551020408163,404
+capture-aware (file-proportion),123,Recon,True,False,False,,,0
+capture-aware (file-proportion),123,Spoofing,True,True,True,0.3277310924369748,0.11818181818181818,119
+capture-aware (file-proportion),123,Web-Based,True,True,True,0.2634228187919463,0.6796536796536796,596
+capture-aware (size-matched),123,Benign,True,False,False,,,0
+capture-aware (size-matched),123,Brute Force,True,False,False,,,0
+capture-aware (size-matched),123,DDOS,True,True,True,0.567615033368458,0.8875869644818748,8541
+capture-aware (size-matched),123,DOS,True,True,True,0.9790003326679974,0.8430796777081468,24048
+capture-aware (size-matched),123,Mirai,True,True,True,0.29411764705882354,0.29292929292929293,493
+capture-aware (size-matched),123,Recon,False,True,False,,,2717
+capture-aware (size-matched),123,Spoofing,True,False,False,,,0
+capture-aware (size-matched),123,Web-Based,True,False,False,,,0
+capture-aware (file-proportion),2024,Benign,True,False,False,,,0
+capture-aware (file-proportion),2024,Brute Force,True,False,False,,,0
+capture-aware (file-proportion),2024,DDOS,True,True,True,0.6388702084734365,0.9862079193237432,10409
+capture-aware (file-proportion),2024,DOS,True,True,True,0.9793265132139812,0.7401143593460578,9384
+capture-aware (file-proportion),2024,Mirai,True,True,True,0.2814569536423841,0.2478134110787172,302
+capture-aware (file-proportion),2024,Recon,True,False,False,,,0
+capture-aware (file-proportion),2024,Spoofing,True,False,False,,,0
+capture-aware (file-proportion),2024,Web-Based,True,False,False,,,0
+capture-aware (size-matched),2024,Benign,True,True,True,0.42245989304812837,0.4030612244897959,561
+capture-aware (size-matched),2024,Brute Force,True,False,False,,,0
+capture-aware (size-matched),2024,DDOS,True,True,True,0.8131325598617626,0.9,4051
+capture-aware (size-matched),2024,DOS,True,True,True,0.9783705839942322,0.9825196524617295,19418
+capture-aware (size-matched),2024,Mirai,True,True,True,0.27854671280276816,0.40759493670886077,578
+capture-aware (size-matched),2024,Recon,True,False,False,,,0
+capture-aware (size-matched),2024,Spoofing,True,False,False,,,0
+capture-aware (size-matched),2024,Web-Based,True,True,True,0.26174496644295303,0.6070038910505836,596
+capture-aware (file-proportion),31337,Benign,True,False,False,,,0
+capture-aware (file-proportion),31337,Brute Force,True,False,False,,,0
+capture-aware (file-proportion),31337,DDOS,True,True,True,0.8442171518489379,0.4787328970850684,3813
+capture-aware (file-proportion),31337,DOS,True,True,True,0.8923831506058858,0.9918547973319651,34660
+capture-aware (file-proportion),31337,Mirai,True,True,True,0.45555555555555555,0.10199004975124377,90
+capture-aware (file-proportion),31337,Recon,True,False,False,,,0
+capture-aware (file-proportion),31337,Spoofing,True,True,True,0.14531754574811626,0.531496062992126,929
+capture-aware (file-proportion),31337,Web-Based,True,True,True,0.05515587529976019,0.35384615384615387,834
+capture-aware (size-matched),31337,Benign,True,True,True,0.40819964349376114,0.4654471544715447,561
+capture-aware (size-matched),31337,Brute Force,True,False,False,,,0
+capture-aware (size-matched),31337,DDOS,True,True,True,0.8739659367396594,0.9014555797222688,6165
+capture-aware (size-matched),31337,DOS,True,True,True,0.9778551229062432,0.9835893396350269,22985
+capture-aware (size-matched),31337,Mirai,True,True,True,0.21112929623567922,0.4056603773584906,611
+capture-aware (size-matched),31337,Recon,True,False,False,,,0
+capture-aware (size-matched),31337,Spoofing,True,False,False,,,0
+capture-aware (size-matched),31337,Web-Based,True,False,False,,,0
+capture-aware (file-proportion),1,Benign,True,True,True,0.45454545454545453,0.3488372093023256,561
+capture-aware (file-proportion),1,Brute Force,True,False,False,,,0
+capture-aware (file-proportion),1,DDOS,True,True,True,0.0909861542808703,0.2197952218430034,3539
+capture-aware (file-proportion),1,DOS,True,True,True,0.9659484417083494,0.880413817289146,25990
+capture-aware (file-proportion),1,Mirai,True,True,True,0.24173553719008264,0.2903225806451613,484
+capture-aware (file-proportion),1,Recon,True,False,False,,,0
+capture-aware (file-proportion),1,Spoofing,True,True,True,0.012759170653907496,0.7741935483870968,1881
+capture-aware (file-proportion),1,Web-Based,True,True,True,0.3739495798319328,0.2018140589569161,238
+capture-aware (size-matched),1,Benign,True,True,True,0.15095338983050846,0.8715596330275229,1888
+capture-aware (size-matched),1,Brute Force,True,False,False,,,0
+capture-aware (size-matched),1,DDOS,True,True,True,0.8975552968568102,0.5159261241970021,4295
+capture-aware (size-matched),1,DOS,True,True,True,0.8493216211515046,0.9859162039374053,22996
+capture-aware (size-matched),1,Mirai,True,True,True,0.2677595628415301,0.14454277286135694,183
+capture-aware (size-matched),1,Recon,True,False,False,,,0
+capture-aware (size-matched),1,Spoofing,True,True,True,0.2857142857142857,0.08651399491094147,119
+capture-aware (size-matched),1,Web-Based,True,False,False,,,0
+capture-aware (file-proportion),99,Benign,True,False,False,,,0
+capture-aware (file-proportion),99,Brute Force,True,False,False,,,0
+capture-aware (file-proportion),99,DDOS,True,True,True,0.6160217983651226,0.626468632232321,9175
+capture-aware (file-proportion),99,DOS,True,True,True,0.8683188259837422,0.8828627852545348,27802
+capture-aware (file-proportion),99,Mirai,True,True,True,0.2514450867052023,0.30526315789473685,346
+capture-aware (file-proportion),99,Recon,True,False,False,,,0
+capture-aware (file-proportion),99,Spoofing,True,True,True,0.2773109243697479,0.22916666666666666,119
+capture-aware (file-proportion),99,Web-Based,True,False,False,,,0
+capture-aware (size-matched),99,Benign,True,True,True,0.3224092116917626,0.24611223799864773,1129
+capture-aware (size-matched),99,Brute Force,True,False,False,,,0
+capture-aware (size-matched),99,DDOS,True,True,True,0.8923559517913159,0.756578947368421,6057
+capture-aware (size-matched),99,DOS,True,True,True,0.9690557632646567,0.8159957130417309,12571
+capture-aware (size-matched),99,Mirai,True,True,True,0.26169265033407574,0.36490683229813664,898
+capture-aware (size-matched),99,Recon,False,True,False,,,2717
+capture-aware (size-matched),99,Spoofing,True,True,True,0.14180672268907563,0.2738336713995943,952
+capture-aware (size-matched),99,Web-Based,True,True,True,0.07621082621082621,0.39776951672862454,1404
+capture-aware (file-proportion),555,Benign,True,True,True,0.18106508875739644,0.8947368421052632,1690
+capture-aware (file-proportion),555,Brute Force,True,False,False,,,0
+capture-aware (file-proportion),555,DDOS,True,True,True,0.928702731092437,0.9328673173305196,7616
+capture-aware (file-proportion),555,DOS,True,True,True,0.986892177589852,0.9724189650862428,11825
+capture-aware (file-proportion),555,Mirai,True,True,True,0.30327868852459017,0.22492401215805471,244
+capture-aware (file-proportion),555,Recon,True,False,False,,,0
+capture-aware (file-proportion),555,Spoofing,True,False,False,,,0
+capture-aware (file-proportion),555,Web-Based,True,False,False,,,0
+capture-aware (size-matched),555,Benign,True,True,True,0.502092050209205,0.14002333722287047,239
+capture-aware (size-matched),555,Brute Force,True,False,False,,,0
+capture-aware (size-matched),555,DDOS,True,True,True,0.8930115273775217,0.8282659538924156,2776
+capture-aware (size-matched),555,DOS,True,True,True,0.989010989010989,0.9534384214933197,26481
+capture-aware (size-matched),555,Mirai,True,True,True,0.24858757062146894,0.17886178861788618,177
+capture-aware (size-matched),555,Recon,False,True,False,,,2717
+capture-aware (size-matched),555,Spoofing,True,False,False,,,0
+capture-aware (size-matched),555,Web-Based,True,False,False,,,0
+capture-aware (file-proportion),8,Benign,True,True,True,0.1551906779661017,0.8567251461988304,1888
+capture-aware (file-proportion),8,Brute Force,True,False,False,,,0
+capture-aware (file-proportion),8,DDOS,True,True,True,0.505813097866078,0.8309961315280464,6795
+capture-aware (file-proportion),8,DOS,True,True,True,0.9413957341064403,0.5709620698317006,4829
+capture-aware (file-proportion),8,Mirai,True,True,True,0.2505050505050505,0.3974358974358974,495
+capture-aware (file-proportion),8,Recon,True,False,False,,,0
+capture-aware (file-proportion),8,Spoofing,True,False,False,,,0
+capture-aware (file-proportion),8,Web-Based,True,True,True,0.2701342281879195,0.45224719101123595,596
+capture-aware (size-matched),8,Benign,True,True,True,0.299722479185939,0.5694200351493849,1081
+capture-aware (size-matched),8,Brute Force,False,True,False,,,2000
+capture-aware (size-matched),8,DDOS,True,True,True,0.7334076965978806,0.2621610845295056,1793
+capture-aware (size-matched),8,DOS,True,True,True,0.8329972150196869,0.976087323468182,20826
+capture-aware (size-matched),8,Mirai,True,True,True,0.20652173913043478,0.2857142857142857,552
+capture-aware (size-matched),8,Recon,True,False,False,,,0
+capture-aware (size-matched),8,Spoofing,True,False,False,,,0
+capture-aware (size-matched),8,Web-Based,True,False,False,,,0
+capture-aware (file-proportion),2718,Benign,True,True,True,0.19763313609467456,0.6313799621928167,1690
+capture-aware (file-proportion),2718,Brute Force,False,True,False,,,2000
+capture-aware (file-proportion),2718,DDOS,True,True,True,0.5802380952380952,0.8441288534811223,8400
+capture-aware (file-proportion),2718,DOS,True,True,True,0.9931204435773694,0.8391462779802187,19478
+capture-aware (file-proportion),2718,Mirai,True,True,True,0.2597701149425287,0.2516703786191537,435
+capture-aware (file-proportion),2718,Recon,True,False,False,,,0
+capture-aware (file-proportion),2718,Spoofing,True,True,True,0.3697478991596639,0.033409263477600606,119
+capture-aware (file-proportion),2718,Web-Based,True,True,True,0.31711409395973156,0.27958579881656803,596
+capture-aware (size-matched),2718,Benign,True,True,True,0.49372384937238495,0.1638888888888889,239
+capture-aware (size-matched),2718,Brute Force,True,False,False,,,0
+capture-aware (size-matched),2718,DDOS,True,True,True,0.8530695373872563,0.5934021453147136,3437
+capture-aware (size-matched),2718,DOS,True,True,True,0.9133929043515042,0.9691988330341114,18913
+capture-aware (size-matched),2718,Mirai,True,True,True,0.3657957244655582,0.36666666666666664,421
+capture-aware (size-matched),2718,Recon,True,False,False,,,0
+capture-aware (size-matched),2718,Spoofing,True,True,True,0.1496232508073197,0.38186813186813184,929
+capture-aware (size-matched),2718,Web-Based,True,True,True,0.07321225879682179,0.9347826086956522,1762
+capture-aware (file-proportion),31415,Benign,True,False,False,,,0
+capture-aware (file-proportion),31415,Brute Force,True,False,False,,,0
+capture-aware (file-proportion),31415,DDOS,True,True,True,0.7212205270457698,0.7027027027027027,1442
+capture-aware (file-proportion),31415,DOS,True,True,True,0.9665098256296706,0.9930530164533821,25291
+capture-aware (file-proportion),31415,Mirai,True,True,True,0.1989247311827957,0.21264367816091953,372
+capture-aware (file-proportion),31415,Recon,True,False,False,,,0
+capture-aware (file-proportion),31415,Spoofing,True,True,True,0.2773109243697479,0.14798206278026907,119
+capture-aware (file-proportion),31415,Web-Based,True,True,True,0.2600671140939597,0.6224899598393574,596
+capture-aware (size-matched),31415,Benign,True,False,False,,,0
+capture-aware (size-matched),31415,Brute Force,False,True,False,,,2000
+capture-aware (size-matched),31415,DDOS,True,True,True,0.5972222222222222,0.13333333333333333,144
+capture-aware (size-matched),31415,DOS,True,True,True,0.9904606064826098,0.9919456066945607,28723
+capture-aware (size-matched),31415,Mirai,True,True,True,0.23588039867109634,0.3380952380952381,301
+capture-aware (size-matched),31415,Recon,True,False,False,,,0
+capture-aware (size-matched),31415,Spoofing,True,False,False,,,0
+capture-aware (size-matched),31415,Web-Based,True,True,True,0.35294117647058826,0.1731958762886598,238
+capture-aware (file-proportion),161803,Benign,True,True,True,0.22852081488042517,0.3739130434782609,1129
+capture-aware (file-proportion),161803,Brute Force,True,False,False,,,0
+capture-aware (file-proportion),161803,DDOS,True,True,True,0.449592290585619,0.35385064177362896,5396
+capture-aware (file-proportion),161803,DOS,True,True,True,0.7276376408338275,0.8643259644560035,21923
+capture-aware (file-proportion),161803,Mirai,True,True,True,0.26517571884984026,0.07039864291772689,313
+capture-aware (file-proportion),161803,Recon,True,False,False,,,0
+capture-aware (file-proportion),161803,Spoofing,True,True,True,0.1377825618945102,0.10640066500415628,929
+capture-aware (file-proportion),161803,Web-Based,True,True,True,0.28691275167785235,0.4723756906077348,596
+capture-aware (size-matched),161803,Benign,True,False,False,,,0
+capture-aware (size-matched),161803,Brute Force,True,False,False,,,0
+capture-aware (size-matched),161803,DDOS,True,True,True,0.9462221477634445,0.6383363471971067,5969
+capture-aware (size-matched),161803,DOS,True,True,True,0.856441351039754,0.9937078874355926,23419
+capture-aware (size-matched),161803,Mirai,True,True,True,0.2509090909090909,0.3770491803278688,275
+capture-aware (size-matched),161803,Recon,True,False,False,,,0
+capture-aware (size-matched),161803,Spoofing,True,False,False,,,0
+capture-aware (size-matched),161803,Web-Based,True,False,False,,,0
+capture-aware (file-proportion),271828,Benign,True,False,False,,,0
+capture-aware (file-proportion),271828,Brute Force,True,False,False,,,0
+capture-aware (file-proportion),271828,DDOS,True,True,True,0.45344694035631294,0.5954027664768105,6455
+capture-aware (file-proportion),271828,DOS,True,True,True,0.9428842805129017,0.8657267441860466,31585
+capture-aware (file-proportion),271828,Mirai,True,True,True,0.31446540880503143,0.20491803278688525,318
+capture-aware (file-proportion),271828,Recon,False,True,False,,,2717
+capture-aware (file-proportion),271828,Spoofing,True,True,True,0.1496232508073197,0.3736559139784946,929
+capture-aware (file-proportion),271828,Web-Based,True,True,True,0.28859060402684567,0.36210526315789476,596
+capture-aware (size-matched),271828,Benign,True,False,False,,,0
+capture-aware (size-matched),271828,Brute Force,True,False,False,,,0
+capture-aware (size-matched),271828,DDOS,True,True,True,0.3819444444444444,0.08233532934131736,144
+capture-aware (size-matched),271828,DOS,True,True,True,0.9717388416578109,0.9983963422956189,30112
+capture-aware (size-matched),271828,Mirai,True,True,True,0.3050847457627119,0.32432432432432434,118
+capture-aware (size-matched),271828,Recon,True,False,False,,,0
+capture-aware (size-matched),271828,Spoofing,True,False,False,,,0
+capture-aware (size-matched),271828,Web-Based,True,False,False,,,0
+capture-aware (file-proportion),4,Benign,True,True,True,0.4028520499108734,0.6026666666666667,561
+capture-aware (file-proportion),4,Brute Force,True,False,False,,,0
+capture-aware (file-proportion),4,DDOS,True,True,True,0.9245861434702637,0.9019138755980861,6524
+capture-aware (file-proportion),4,DOS,True,True,True,0.9248847240815112,0.9851857720034857,13446
+capture-aware (file-proportion),4,Mirai,True,True,True,0.2489451476793249,0.15945945945945947,237
+capture-aware (file-proportion),4,Recon,True,False,False,,,0
+capture-aware (file-proportion),4,Spoofing,True,False,False,,,0
+capture-aware (file-proportion),4,Web-Based,True,False,False,,,0
+capture-aware (size-matched),4,Benign,True,True,True,0.4686192468619247,0.18122977346278318,239
+capture-aware (size-matched),4,Brute Force,False,True,False,,,2000
+capture-aware (size-matched),4,DDOS,True,True,True,0.5726626016260162,0.6205947136563876,1968
+capture-aware (size-matched),4,DOS,True,True,True,0.967081979929219,0.9809205350118018,20627
+capture-aware (size-matched),4,Mirai,True,True,True,0.2052980132450331,0.06783369803063458,151
+capture-aware (size-matched),4,Recon,True,False,False,,,0
+capture-aware (size-matched),4,Spoofing,True,False,False,,,0
+capture-aware (size-matched),4,Web-Based,True,True,True,0.38235294117647056,0.15041322314049588,238
+capture-aware (file-proportion),77,Benign,True,False,False,,,0
+capture-aware (file-proportion),77,Brute Force,False,True,False,,,2000
+capture-aware (file-proportion),77,DDOS,True,True,True,0.9432693884243318,0.5659616330545991,6099
+capture-aware (file-proportion),77,DOS,True,True,True,0.8933509855839953,0.9890611004044407,40788
+capture-aware (file-proportion),77,Mirai,True,True,True,0.3730769230769231,0.19595959595959597,260
+capture-aware (file-proportion),77,Recon,True,False,False,,,0
+capture-aware (file-proportion),77,Spoofing,True,True,True,0.15126050420168066,0.16216216216216217,952
+capture-aware (file-proportion),77,Web-Based,True,True,True,0.31711409395973156,0.2867981790591806,596
+capture-aware (size-matched),77,Benign,True,False,False,,,0
+capture-aware (size-matched),77,Brute Force,True,False,False,,,0
+capture-aware (size-matched),77,DDOS,True,True,True,0.45170151075843124,0.7910208444681989,6553
+capture-aware (size-matched),77,DOS,True,True,True,0.9684146833400564,0.8771282426013883,24790
+capture-aware (size-matched),77,Mirai,True,True,True,0.20868113522537562,0.4152823920265781,599
+capture-aware (size-matched),77,Recon,True,False,False,,,0
+capture-aware (size-matched),77,Spoofing,True,False,False,,,0
+capture-aware (size-matched),77,Web-Based,True,True,True,0.04436450839328537,0.3135593220338983,834
+capture-aware (file-proportion),900,Benign,True,False,False,,,0
+capture-aware (file-proportion),900,Brute Force,True,False,False,,,0
+capture-aware (file-proportion),900,DDOS,True,True,True,0.8362637362637363,0.9246658566221142,3640
+capture-aware (file-proportion),900,DOS,True,True,True,0.9774151005605012,0.9762081172305919,12132
+capture-aware (file-proportion),900,Mirai,True,True,True,0.2126865671641791,0.4222222222222222,536
+capture-aware (file-proportion),900,Recon,True,False,False,,,0
+capture-aware (file-proportion),900,Spoofing,True,True,True,0.29411764705882354,0.2147239263803681,119
+capture-aware (file-proportion),900,Web-Based,True,False,False,,,0
+capture-aware (size-matched),900,Benign,True,False,False,,,0
+capture-aware (size-matched),900,Brute Force,True,False,False,,,0
+capture-aware (size-matched),900,DDOS,True,True,True,0.5029239766081871,0.08090310442144873,171
+capture-aware (size-matched),900,DOS,True,True,True,0.9722702337115804,0.9449658547273856,26614
+capture-aware (size-matched),900,Mirai,True,True,True,0.3076923076923077,0.10126582278481013,52
+capture-aware (size-matched),900,Recon,False,True,False,,,2717
+capture-aware (size-matched),900,Spoofing,True,False,False,,,0
+capture-aware (size-matched),900,Web-Based,True,True,True,0.02830188679245283,0.308411214953271,1166
+capture-aware (file-proportion),12321,Benign,True,True,True,0.4442307692307692,0.5775,520
+capture-aware (file-proportion),12321,Brute Force,True,False,False,,,0
+capture-aware (file-proportion),12321,DDOS,True,True,True,0.8833227647431833,0.8833227647431833,3154
+capture-aware (file-proportion),12321,DOS,True,True,True,0.9755740657361549,0.9838801226018844,17768
+capture-aware (file-proportion),12321,Mirai,True,True,True,0.23011844331641285,0.4755244755244755,591
+capture-aware (file-proportion),12321,Recon,True,False,False,,,0
+capture-aware (file-proportion),12321,Spoofing,True,True,True,0.31932773109243695,0.1450381679389313,119
+capture-aware (file-proportion),12321,Web-Based,True,True,True,0.3319327731092437,0.4030612244897959,238
+capture-aware (size-matched),12321,Benign,True,False,False,,,0
+capture-aware (size-matched),12321,Brute Force,True,False,False,,,0
+capture-aware (size-matched),12321,DDOS,True,True,True,0.9020080321285141,0.3449017199017199,1245
+capture-aware (size-matched),12321,DOS,True,True,True,0.9264214046822743,0.9626247828012674,30498
+capture-aware (size-matched),12321,Mirai,True,True,True,0.28846153846153844,0.08152173913043478,52
+capture-aware (size-matched),12321,Recon,False,True,False,,,2717
+capture-aware (size-matched),12321,Spoofing,True,False,False,,,0
+capture-aware (size-matched),12321,Web-Based,True,False,False,,,0
+capture-aware (file-proportion),5150,Benign,True,True,True,0.2240921169176262,0.5763097949886105,1129
+capture-aware (file-proportion),5150,Brute Force,True,False,False,,,0
+capture-aware (file-proportion),5150,DDOS,True,True,True,0.42492917847025496,0.8364312267657993,6354
+capture-aware (file-proportion),5150,DOS,True,True,True,0.9686996238581408,0.8130108799819606,14888
+capture-aware (file-proportion),5150,Mirai,True,True,True,0.2694610778443114,0.21428571428571427,334
+capture-aware (file-proportion),5150,Recon,True,False,False,,,0
+capture-aware (file-proportion),5150,Spoofing,True,False,False,,,0
+capture-aware (file-proportion),5150,Web-Based,True,True,True,0.25838926174496646,0.6086956521739131,596
+capture-aware (size-matched),5150,Benign,True,False,False,,,0
+capture-aware (size-matched),5150,Brute Force,True,False,False,,,0
+capture-aware (size-matched),5150,DDOS,True,True,True,0.5573797406008866,0.47409579667644186,6091
+capture-aware (size-matched),5150,DOS,True,True,True,0.8000743846361915,0.9232900230207968,29576
+capture-aware (size-matched),5150,Mirai,True,True,True,0.3945945945945946,0.07588357588357589,185
+capture-aware (size-matched),5150,Recon,True,False,False,,,0
+capture-aware (size-matched),5150,Spoofing,True,False,False,,,0
+capture-aware (size-matched),5150,Web-Based,True,False,False,,,0
+capture-aware (file-proportion),60606,Benign,True,True,True,0.40641711229946526,0.3890784982935154,561
+capture-aware (file-proportion),60606,Brute Force,True,False,False,,,0
+capture-aware (file-proportion),60606,DDOS,True,True,True,0.8942245295262816,0.6954912516823688,4623
+capture-aware (file-proportion),60606,DOS,True,True,True,0.9307863404422347,0.9946868008948546,30572
+capture-aware (file-proportion),60606,Mirai,True,True,True,0.2909604519774011,0.3366013071895425,354
+capture-aware (file-proportion),60606,Recon,True,False,False,,,0
+capture-aware (file-proportion),60606,Spoofing,True,False,False,,,0
+capture-aware (file-proportion),60606,Web-Based,True,False,False,,,0
+capture-aware (size-matched),60606,Benign,True,True,True,0.24180690876882197,0.29770992366412213,1129
+capture-aware (size-matched),60606,Brute Force,True,False,False,,,0
+capture-aware (size-matched),60606,DDOS,True,True,True,0.622718253968254,0.8615152346966786,10080
+capture-aware (size-matched),60606,DOS,True,True,True,0.9667114649023054,0.6356467949153695,9673
+capture-aware (size-matched),60606,Mirai,True,True,True,0.2916666666666667,0.3100511073253833,624
+capture-aware (size-matched),60606,Recon,False,True,False,,,2717
+capture-aware (size-matched),60606,Spoofing,True,True,True,0.10782442748091603,0.3062330623306233,1048
+capture-aware (size-matched),60606,Web-Based,True,False,False,,,0
+capture-aware (file-proportion),24680,Benign,True,False,False,,,0
+capture-aware (file-proportion),24680,Brute Force,True,False,False,,,0
+capture-aware (file-proportion),24680,DDOS,True,True,True,0.8607637715444407,0.8663265306122448,2959
+capture-aware (file-proportion),24680,DOS,True,True,True,0.938562091503268,0.963170731707317,8415
+capture-aware (file-proportion),24680,Mirai,True,True,True,0.38563829787234044,0.35714285714285715,376
+capture-aware (file-proportion),24680,Recon,True,False,False,,,0
+capture-aware (file-proportion),24680,Spoofing,True,True,True,0.11134453781512606,0.7412587412587412,952
+capture-aware (file-proportion),24680,Web-Based,True,False,False,,,0
+capture-aware (size-matched),24680,Benign,True,False,False,,,0
+capture-aware (size-matched),24680,Brute Force,True,False,False,,,0
+capture-aware (size-matched),24680,DDOS,True,True,True,0.9608333333333333,0.49634093844167027,3600
+capture-aware (size-matched),24680,DOS,True,True,True,0.8559540082013347,0.9898186889818689,24874
+capture-aware (size-matched),24680,Mirai,True,True,True,0.42528735632183906,0.18407960199004975,87
+capture-aware (size-matched),24680,Recon,True,False,False,,,0
+capture-aware (size-matched),24680,Spoofing,True,False,False,,,0
+capture-aware (size-matched),24680,Web-Based,True,True,True,0.02144082332761578,0.6944444444444444,1166
